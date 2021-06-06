@@ -1,4 +1,4 @@
-# PROYWKA
+# PROYEKA
 ASSIST APP : Hackathon Project
 
 An ALS Patients Helper App
